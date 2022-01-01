@@ -1,3 +1,0 @@
-16:25 - Error : SQLSTATE[23000]: Integrity constraint violation: 19 NOT NULL constraint failed: Exchange.userId
-16:33 - Error : SQLSTATE[23000]: Integrity constraint violation: 19 NOT NULL constraint failed: Exchange.userId
-16:36 - Error : SQLSTATE[23000]: Integrity constraint violation: 19 NOT NULL constraint failed: Exchange.userId
